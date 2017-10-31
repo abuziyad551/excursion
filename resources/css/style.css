@@ -27,3 +27,12 @@ h2{
 	font-size: 21px;
 	color: gray;
 }
+div{
+	height: 100px;
+	background: #222;
+}
+div p {
+	color: white;
+	text-transform: uppercase;
+	padding-top: 10px;
+}
